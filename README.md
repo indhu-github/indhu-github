@@ -1,7 +1,7 @@
 ### Hi there 👋
  <img src="https://komarev.com/ghpvc/?username=indhu-github" alt="" />
  
- ![](https://komarev.com/ghpvc/?username=indhu-github)
+
 
 <!--
 **indhu-github/indhu-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
